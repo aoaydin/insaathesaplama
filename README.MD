@@ -22,13 +22,15 @@ Bu hesaplama aracını kullanmak için aşağıdaki adımları izleyin:
 4. Ana menüyü başlatmak için aşağıdaki komutu çalıştırın:
 
    ```bash
-   python main.py```
+   python main.py
+   ```
 
 # Gerekli Paketleri Yükleme
 Bu hesaplama aracını kullanmak için öncelikle gerekli paketleri yüklemeniz gerekmektedir. Aşağıdaki komutu çalıştırarak gerekli paketleri yükleyebilirsiniz:
 
 ```bash
-pip install numpy```
+pip install numpy
+```
 
 
 
