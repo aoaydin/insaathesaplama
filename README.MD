@@ -22,13 +22,13 @@ Bu hesaplama aracını kullanmak için aşağıdaki adımları izleyin:
 4. Ana menüyü başlatmak için aşağıdaki komutu çalıştırın:
 
    ```bash
-   python main.py
+   python main.py```
 
 # Gerekli Paketleri Yükleme
 Bu hesaplama aracını kullanmak için öncelikle gerekli paketleri yüklemeniz gerekmektedir. Aşağıdaki komutu çalıştırarak gerekli paketleri yükleyebilirsiniz:
 
 ```bash
-pip install numpy
+pip install numpy```
 
 
 
@@ -76,7 +76,7 @@ To use this calculation tool, follow these steps:
 4. Run the following command to start the main menu:
 
    ```bash
-   python main.py
+   python main.py```
 
 # Installing Required Packages
 To use this calculation tool, you need to install the required packages. You can install them by running the following command:
