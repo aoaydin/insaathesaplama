@@ -78,7 +78,8 @@ To use this calculation tool, follow these steps:
 4. Run the following command to start the main menu:
 
    ```bash
-   python main.py```
+   python main.py
+   ```
 
 # Installing Required Packages
 To use this calculation tool, you need to install the required packages. You can install them by running the following command:
